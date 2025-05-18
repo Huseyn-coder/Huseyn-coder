@@ -38,4 +38,4 @@ Mənimlə əlaqə saxlamaq və ya əməkdaşlıq üçün aşağıdakı e-poçt v
 Əlaqə: WhatsApp: https://lnkd.in/eQp9eei2
 
 
-⭐ Profilimi ziyarət etdiyiniz üçün təşəkkür edirəm! Layihələrimi bəyənirsinizsə, ulduzlamanı (⭐) unutmayın və ya əlaqə saxlayın!
+⭐ Profilimi ziyarət etdiyiniz üçün təşəkkür edirəm!

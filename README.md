@@ -1,41 +1,24 @@
-# 👋 Salam, mən Hüseynəm!
+👋 Salam, mən Hüseynəm!
 
-Mən bir Frontend developer olaraq veb texnologiyaları sahəsində təhsil almış və real layihələr üzərində təcrübə qazanmışam. HTML, CSS, JavaScript və React.js kimi texnologiyalarla müasir və cavabverici veb səhifələr hazırlayıram. Aşağıda kurs müddətində və şəxsi inkişafım zamanı hazırladığım layihələri təqdim edirəm.
+Data Analyst olaraq xam datanı biznes qərarlarına çevirmək üçün SQL, Power BI və Python istifadə edirəm. Əsas maraq sahəm: satış analitikası, müştəri davranışı və interaktiv dashboard qurmaqdır.
 
-## 🚀 Haqqımda qısa:
-- 💻 Frontend sahəsində təhsil almışam
-- 🔨 Hər layihədə yeni bir texnologiyanı öyrənib tətbiq etməyə çalışıram
-- 🎯 Məqsədim — istifadəçi dostu, sürətli və funksional veb tətbiqlər hazırlamaq
-- 📚 Daim yeni texnologiyaları öyrənməyə və inkişaf etməyə açığam
+🚀 Haqqımda qısa:
 
+📊 Data Analytics sahəsində praktiki layihələr üzərində işləyirəm
+🧮 SQL ilə data profiling, Power Query ilə təmizləmə, DAX ilə metrik hesablama edirəm
+🎯 Məqsədim — data-nı düzgün suallara cavab verən, qərar dəstəkləyən hesabatlara çevirmək
+📈 Excel-də təlim də verirəm (Data Analytics Instructor)
 
-## 🛠️ İstifadə etdiyim texnologiyalar:
+🛠️ İstifadə etdiyim texnologiyalar:
 
-- ✅ HTML5, CSS3 (Flexbox, Grid, Animations)
-- ✅ JavaScript (ES6+)
-- ✅ React.js (Hooks, Components, State Management)
-- ✅ Git & GitHub
-- ✅ Responsive Design (Mobil uyğunluq)
+✅ Power BI (DAX, Power Query / M)
+✅ SQL (SQLite, sorğu yazma, data quality yoxlaması)
+✅ Excel (qabaqcıl formullar, VBA/Makrolar)
+✅ Python (data təhlili üçün)
+✅ Git & GitHub
 
+📌 Seçilmiş layihə:
+E-commerce Sales & Customer Analytics Dashboard — Braziliya e-ticarət datası üzərində uçdan-uca analitika: SQL data quality yoxlaması → star schema Power BI modeli → 19+ DAX measure → 4 səhifəlik interaktiv hesabat.
+(link Olist repo yükləndikdən sonra əlavə olunacaq)
 
-## 📂 Layihələr:
-
-🔹 **Sadə HTML/CSS Layihələri**  
-`html-projects` repositoriyasında yerləşir. Bu layihələrdə əsasən strukturlu səhifə quruluşu və dizayn prinsipləri tətbiq olunub.  
-➡️ *Məsələn*: CV səhifəsi, portfolyo dizaynı, kart dizaynları.
-
-🔹 **JavaScript Layihələri**  
-`javascript-exercises` repositoriyasında müxtəlif DOM layihələri və mini tətbiqlər mövcuddur.  
-➡️ *Məsələn*: Sayğac, kalkulyator, saat, To-Do List.
-
-🔹 **React Proyektləri**  
-`react-portfolio` repositoriyasında React ilə yazılmış daha kompleks layihələr yer alır.  
-➡️ *Məsələn*: Hava proqnozu tətbiqi, xəbərlər tətbiqi, SPA strukturlu portfolyo səhifələri.
-
-
-## 📬 Əlaqə:
-Mənimlə əlaqə saxlamaq və ya əməkdaşlıq üçün aşağıdakı e-poçt vasitəsilə yazın:  
-Əlaqə: WhatsApp: https://lnkd.in/eQp9eei2
-
-
-⭐ Profilimi ziyarət etdiyiniz üçün təşəkkür edirəm!
+📫 Əlaqə: LinkedIn — linkedin.com/in/huseyn-agayev-b61aa337b

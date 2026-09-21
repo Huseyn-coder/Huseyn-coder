@@ -19,6 +19,5 @@ Data Analyst olaraq xam datanı biznes qərarlarına çevirmək üçün SQL, Pow
 
 📌 Seçilmiş layihə:
 E-commerce Sales & Customer Analytics Dashboard — Braziliya e-ticarət datası üzərində uçdan-uca analitika: SQL data quality yoxlaması → star schema Power BI modeli → 21 DAX measure → 4 səhifəlik interaktiv hesabat.
-(link Olist repo yükləndikdən sonra əlavə olunacaq)
 
 📫 Əlaqə: LinkedIn — linkedin.com/in/huseyn-agayev-b61aa337b
